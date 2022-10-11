@@ -42,7 +42,7 @@ This repository is a PyTorch implementation for Knowledge distillation. The code
    ```
 
 6. result:
-- Pspnet Result
-<img src="./figure/pspnet.png" width="900"/>
-- Kowlege Distillation Result
-<img src="./figure/kd.png" width="900"/>
+   - Pspnet Result
+      <img src="./figure/pspnet.png" width="900"/>
+   - Kowlege Distillation Result
+      <img src="./figure/kd.png" width="900"/>
